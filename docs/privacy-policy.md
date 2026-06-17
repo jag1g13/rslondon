@@ -2,6 +2,8 @@
 layout: single
 title: "Privacy Policy"
 permalink: /privacy-policy/
+redirect_from:
+  - /privacy-policy-2/
 ---
 
 The Research Software London website is hosted at and operated from Imperial College London.

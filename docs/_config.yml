@@ -40,6 +40,9 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-sitemap
+  - jekyll-redirect-from
+
+copyright_url: "https://jag1g13.github.io/rslondon/"
 
 footer:
   links:
