@@ -18,7 +18,7 @@ While this workshop aims to provide a regional focus on research software activi
 
 There will be a range of technical presentations and a poster session as well as extensive opportunities for networking and discussion and a set of parallel, breakout discussion sessions.
 
-See the [call for submission of abstracts](/rslse2022/cfs/) for presentations and posters. [Abstract submission is now closed]
+See the [call for submission of abstracts](/rslondon/rslse2022/cfs/) for presentations and posters. [Abstract submission is now closed]
 
 ### **Venue**
 
@@ -30,11 +30,11 @@ See the [call for submission of abstracts](/rslse2022/cfs/) for presentations an
 
 We are accepting submission of short abstracts for 15-minute talks (250 word abstract), 5-minute lightning talks (up to 150 word abstract) and posters (up to 150 word abstract). The **deadline for abstract submissions is 23:59 BST (UTC+1) on ~~Thursday 12th May 2022~~** **Wednesday 18th May 2022**.
 
-- See the [call for submission of abstracts](/rslse2022/cfs/) for talks and posters
+- See the [call for submission of abstracts](/rslondon/rslse2022/cfs/) for talks and posters
 - Abstract submission deadline: **23:59 BST (UTC+1) on ~~Thursday 12th May 2022~~ Wednesday 18th May 2022**
 - ~~Abstract submissions are open. Submit your abstract via the [submission form](https://forms.gle/cxvHXx4iMqzTraGi9).~~ Abstract submission have now closed.
 
-Details of the workshop organising committee and programme committee can be found on the [Committees page](/rslse2022/committees/).
+Details of the workshop organising committee and programme committee can be found on the [Committees page](/rslondon/rslse2022/committees/).
 
 ### **Registration**
 
@@ -44,11 +44,11 @@ The workshop will start at 10.00am and finish at approximately 5pm, followed by 
 
 ### **Schedule**
 
-The [workshop schedule](/rslse2022/schedule/) is now available.
+The [workshop schedule](/rslondon/rslse2022/schedule/) is now available.
 
 ### **Code of Conduct, Diversity and Accessibility & COVID-19 Guidance**
 
-Please read our workshop [Code of Conduct](/rslse2022/code-of-conduct/) and [Diversity and Accessibility](/rslse2022/diversity/) statement. Accessibility requirements can be specified at registration time but please [contact us](mailto:rslondonsoutheast2022@rslondon.ac.uk) if you have any questions.
+Please read our workshop [Code of Conduct](/rslondon/rslse2022/code-of-conduct/) and [Diversity and Accessibility](/rslondon/rslse2022/diversity/) statement. Accessibility requirements can be specified at registration time but please [contact us](mailto:rslondonsoutheast2022@rslondon.ac.uk) if you have any questions.
 
 We ask that if you feel unwell on the day of the workshop or are exhibiting any [symptoms of COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms/main-symptoms/), that you please do not attend. Masks will be available for anyone who wishes to wear one.
 
@@ -58,7 +58,7 @@ If you have access to a lateral flow test, please take one prior to attending th
 
 We would like to thank our event sponsors, the [Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/) and the [Society of Research Software Engineering](https://society-rse.org/) without whom staging this event would not be possible.
 
-[![UKRI Engineering and Physical Sciences Research Council Logo](/assets/images/2020/01/UKRI_EPSR_Council-Logo_Horiz-RGB.png)](https://epsrc.ukri.org/)           [![Society of Research Software Engineering Logo](/assets/images/2022/06/Soc_RSE_master_logo.png)](https://society-rse.org/)
+[![UKRI Engineering and Physical Sciences Research Council Logo](/rslondon/assets/images/2020/01/UKRI_EPSR_Council-Logo_Horiz-RGB.png)](https://epsrc.ukri.org/)           [![Society of Research Software Engineering Logo](/rslondon/assets/images/2022/06/Soc_RSE_master_logo.png)](https://society-rse.org/)
 
 EPSRC support for the event is provided through RSE Fellowship Grant EP/R025460/1.
 

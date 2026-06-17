@@ -4,7 +4,7 @@ title: "RSLondonSouthEast 2023: Diversity and Accessibility"
 permalink: /rslondonsoutheast2023/diversity/
 ---
 
-[< Back to RSLondonSouthEast 2023](/rslondonsoutheast2023/)
+[< Back to RSLondonSouthEast 2023](/rslondon/rslondonsoutheast2023/)
 
 The RSLondonSouthEast 2023 Workshop is a community conference intended to bring together individuals based at institutions in London and the South East of England who are either building/working with research software or who are new to the field and keen to develop their knowledge and skills. It is also open to individuals from the wider national and international RSE community. The workshop will facilitate networking, collaboration and skills development within the regional research software community. We value the participation of each member of our community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the workshop.
 

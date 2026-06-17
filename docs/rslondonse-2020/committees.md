@@ -4,7 +4,7 @@ title: "RSLondonSouthEast 2020: Committees"
 permalink: /rslondonse-2020/committees/
 ---
 
-[< Back to RSLondonSouthEast 2020](/rslondonse-2020/)
+[< Back to RSLondonSouthEast 2020](/rslondon/rslondonse-2020/)
 
 ### **Organising Committee**
 

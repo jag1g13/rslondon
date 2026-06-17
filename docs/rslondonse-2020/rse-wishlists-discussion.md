@@ -9,9 +9,9 @@ Published: 5th August 2020
 Editors: **Jeremy Cohen** (Imperial College London), **Ilektra Christidi** (University College London), **Neil Chue Hong** (Software Sustainability Institute, University of Edinburgh), **Alejandra Gonzalez-Beltran** (Science & Technology Facilities Council, UK Research & Innovation)  
 *\* The editors wish to acknowledge all participants in the RSLondonSouthEast 2020 discussion session, the outputs of which are highlighted in this blog post and the associated report. See the conclusions section and the full session write-up report for further details.*
 
-[RSLondonSouthEast 2020](/rslondonse-2020/) was the 2nd annual workshop of the [Research Software London](/) regional RSE community for London and South East of England. The one-day workshop, which took place in February 2020, was again held at The Royal Society in Central London, supported by [UKRI-EPSRC](https://epsrc.ukri.org/) and the [Society of Research Software Engineering](https://society-rse.org/), and brought together nearly 100 participants. A key element of the day’s schedule was the discussion session which provided the attendees with an opportunity to discuss their thoughts and ideas around some specific aspects of RSE.
+[RSLondonSouthEast 2020](/rslondon/rslondonse-2020/) was the 2nd annual workshop of the [Research Software London](/rslondon/) regional RSE community for London and South East of England. The one-day workshop, which took place in February 2020, was again held at The Royal Society in Central London, supported by [UKRI-EPSRC](https://epsrc.ukri.org/) and the [Society of Research Software Engineering](https://society-rse.org/), and brought together nearly 100 participants. A key element of the day’s schedule was the discussion session which provided the attendees with an opportunity to discuss their thoughts and ideas around some specific aspects of RSE.
 
-![](/assets/images/2020/07/RZL8BGBM-unsplash-1-1024x678.jpg)  
+![](/rslondon/assets/images/2020/07/RZL8BGBM-unsplash-1-1024x678.jpg)  
 Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/lists?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 #### Wishlists for the future of RSE

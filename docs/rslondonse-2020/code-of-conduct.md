@@ -4,7 +4,7 @@ title: "RSLondonSouthEast 2020: Code of Conduct"
 permalink: /rslondonse-2020/code-of-conduct/
 ---
 
-[< Back to RSLondonSouthEast 2020](/rslondonse-2020/)
+[< Back to RSLondonSouthEast 2020](/rslondon/rslondonse-2020/)
 
 The RSLondonSouthEast 2020 workshop is open to anyone interested in research software with a focus on institutions in London and the South East of England. The workshop aims to bring together researchers, Research Software Engineers, academics, systems/infrastructure professionals and anyone building, working with or interested in research software.
 

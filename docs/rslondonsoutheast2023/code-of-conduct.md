@@ -4,7 +4,7 @@ title: "RSLondonSouthEast 2023: Code of Conduct"
 permalink: /rslondonsoutheast2023/code-of-conduct/
 ---
 
-[< Back to RSLondonSouthEast 2023](/rslondonsoutheast2023/)
+[< Back to RSLondonSouthEast 2023](/rslondon/rslondonsoutheast2023/)
 
 The RSLondonSouthEast 2023 workshop is open to anyone interested in research software with a focus on institutions in London and the South East of England. The workshop aims to bring together researchers, Research Software Engineers, academics, systems/infrastructure professionals and anyone building, working with or interested in research software.
 

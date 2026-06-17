@@ -34,7 +34,7 @@ If a participant engages in behavior that violates this code of conduct, the wor
 
 #### **Reporting harassment**
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, you should contact Catherine Jones, [Catherine.jones@stfc.ac.uk](mailto:Catherine.jones@stfc.ac.uk), or any other member of the conference [organising committee](/rslondonse-2019/committees/). Should a harassment incident take place, please report it immediately, preferably in writing.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, you should contact Catherine Jones, [Catherine.jones@stfc.ac.uk](mailto:Catherine.jones@stfc.ac.uk), or any other member of the conference [organising committee](/rslondon/rslondonse-2019/committees/). Should a harassment incident take place, please report it immediately, preferably in writing.
 
 ##### **All reports will be confidential.**
 

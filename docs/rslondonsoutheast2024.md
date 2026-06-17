@@ -28,11 +28,11 @@ There will be a range of technical presentations as well as a poster session and
 
 We are accepting submission of short abstracts for 15-minute talks (300 word abstract), 5-minute lightning talks (up to 200 word abstract) and posters (up to 200 word abstract).
 
-- See the **[call for submission of abstracts](/rslondonsoutheast2024/cfs/)** for full details
+- See the **[call for submission of abstracts](/rslondon/rslondonsoutheast2024/cfs/)** for full details
 - ~~Abstract submission deadline: 23:59 BST (UTC+1) on Wednesday 22nd May 2024 Tuesday 28th May 2024 (extended)~~
 - **Abstract submissions for this year’s workshop are now closed but please do join us for the workshop on 16th July.**
 
-Details of the workshop organising committee and programme committee can be found on the [Committees page](/rslondonsoutheast2024/committees/).
+Details of the workshop organising committee and programme committee can be found on the [Committees page](/rslondon/rslondonsoutheast2024/committees/).
 
 ### **Registration**
 
@@ -43,11 +43,11 @@ The workshop will start at 10.00am and finish at approximately 5pm and we hope t
 
 ### **Schedule**
 
-The full [workshop schedule](/rslondonsoutheast2024/schedule/) is now available.
+The full [workshop schedule](/rslondon/rslondonsoutheast2024/schedule/) is now available.
 
 ### **Code of Conduct, Diversity and Accessibility & COVID-19 Guidance**
 
-Please read our workshop [Code of Conduct](/rslondonsoutheast2024/code-of-conduct/) and [Diversity and Accessibility statement](/rslondonsoutheast2024/diversity/). Accessibility requirements can be specified at registration time but please [contact us](mailto:rslondonsoutheast2024@rslondon.ac.uk) if you have any questions.
+Please read our workshop [Code of Conduct](/rslondon/rslondonsoutheast2024/code-of-conduct/) and [Diversity and Accessibility statement](/rslondon/rslondonsoutheast2024/diversity/). Accessibility requirements can be specified at registration time but please [contact us](mailto:rslondonsoutheast2024@rslondon.ac.uk) if you have any questions.
 
 While we recognise that the pandemic is over and COVID-19 is no longer a concern for many people, there are still people for whom this is not the case due to underlying health issues, vulnerable family members or other reasons. We want everyone to feel comfortable to attend our event and masks will be available for anyone who wishes to wear one. We also advise you not to attend the event if you feel unwell or are exhibiting [symptoms of COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms/main-symptoms/) on the day of the workshop. If you have access to a lateral flow test, please consider taking one prior to attending the workshop and do not attend if you receive a positive result. This will help all workshop participants to feel safe.
 
@@ -55,7 +55,7 @@ While we recognise that the pandemic is over and COVID-19 is no longer a concern
 
 We would like to thank our event sponsors, the [Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/) and the [Society of Research Software Engineering](https://society-rse.org/) without whom staging this event would not be possible.
 
-[![UKRI Engineering and Physical Sciences Research Council Logo](/assets/images/2020/01/UKRI_EPSR_Council-Logo_Horiz-RGB.png)](https://epsrc.ukri.org/)![Society of Research Software Engineering Logo](/assets/images/2022/06/Soc_RSE_master_logo.png)
+[![UKRI Engineering and Physical Sciences Research Council Logo](/rslondon/assets/images/2020/01/UKRI_EPSR_Council-Logo_Horiz-RGB.png)](https://epsrc.ukri.org/)![Society of Research Software Engineering Logo](/rslondon/assets/images/2022/06/Soc_RSE_master_logo.png)
 
 EPSRC support for the event is provided through Grant EP/Y530608/1.
 

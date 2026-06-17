@@ -12,7 +12,7 @@ This cookie policy is based on and developed from the [Automattic Cookie Policy]
 
 ---
 
-Our [Privacy Policy](/privacy-policy/) explains our principles when it comes to the collection, processing, and storage of your information. This policy specifically explains how we, our partners, and users of our services deploy cookies, as well as the options you have to control them.
+Our [Privacy Policy](/rslondon/privacy-policy/) explains our principles when it comes to the collection, processing, and storage of your information. This policy specifically explains how we, our partners, and users of our services deploy cookies, as well as the options you have to control them.
 
 ## What are cookies?
 

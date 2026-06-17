@@ -21,7 +21,7 @@ In addition, we aim to help foster collaboration across institutions and domains
 The community has plans to offer a variety of activities to support our members. These include:
 
 - Technical talks covering a wide variety of domains and technical topics
-- An annual Research Software London workshop, beginning with [RSLondonSouthEast 2019](/rslondonse-2019/) in early 2019
+- An annual Research Software London workshop, beginning with [RSLondonSouthEast 2019](/rslondon/rslondonse-2019/) in early 2019
 - Intermediate and advanced level training workshops to help you build your software development skills
 - Introductory software development support sessions providing tips, ideas and support with specific software development questions
 - Community-building facilitated networking sessions for developers and researchers

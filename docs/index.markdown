@@ -18,4 +18,4 @@ Registration for the event closes at midday on Friday 19th June 2026.
 
 ## Join the community
 
-[Sign up to our email list](/mailing-list/) to find out about community events and activities.
+[Sign up to our email list](/rslondon/mailing-list/) to find out about community events and activities.

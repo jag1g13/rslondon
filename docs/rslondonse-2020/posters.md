@@ -4,7 +4,7 @@ title: "RSLondonSouthEast 2020: Posters"
 permalink: /rslondonse-2020/posters/
 ---
 
-[< Back to RSLondonSouthEast 2020: Schedule](/rslondonse-2020/agenda)
+[< Back to RSLondonSouthEast 2020: Schedule](/rslondon/rslondonse-2020/agenda)
 
 ### **Posters**
 

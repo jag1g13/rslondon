@@ -4,7 +4,7 @@ title: "RSLondonSouthEast 2024: Code of Conduct"
 permalink: /rslondonsoutheast2024/code-of-conduct/
 ---
 
-[< Back to RSLondonSouthEast 2024](/rslondonsoutheast2024/)
+[< Back to RSLondonSouthEast 2024](/rslondon/rslondonsoutheast2024/)
 
 The RSLondonSouthEast2024 workshop is open to anyone interested in research software, research data and research computing infrastructure, with a focus on institutions in London and the South East of England. The workshop aims to bring together researchers, Research Software Engineers, research data professionals, academics, systems/infrastructure professionals and anyone building, working with or interested in research software, data and infrastructure.
 

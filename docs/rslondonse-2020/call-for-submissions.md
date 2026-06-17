@@ -53,7 +53,7 @@ Abstracts for **lightning talks** (5 minutes) and **posters** (including a 2-min
 
 Abstracts must be submitted via the [abstract submission form](https://forms.gle/9JCqXWzJt1rdH1CaA).
 
-Details of the workshop’s organising and programme committees are available [here](/rslondonse-2020/committees/).
+Details of the workshop’s organising and programme committees are available [here](/rslondon/rslondonse-2020/committees/).
 
 We are committed to promoting and supporting diversity within the RSE field and strongly encourage submissions by individuals from underrepresented groups in this field.
 

@@ -4,7 +4,7 @@ title: "RSLondonSouthEast2019: Call for Submissions"
 permalink: /rslondonse-2019/call-for-submissions/
 ---
 
-**RSLondonSouthEast2019** is the first of what is planned to be an annual workshop run by [Research Software London](/), a new regional research software community for London and the South East of England. The workshop will take place on **Thursday 7th February 2019** at the Royal Society in Central London.
+**RSLondonSouthEast2019** is the first of what is planned to be an annual workshop run by [Research Software London](/rslondon/), a new regional research software community for London and the South East of England. The workshop will take place on **Thursday 7th February 2019** at the Royal Society in Central London.
 
 We are inviting submission of abstracts for regular talks (15 minutes, including questions), lightning talks (5 minutes) and posters.
 
@@ -51,7 +51,7 @@ Abstracts for **lightning talks** and **posters** can be up to **100 words**.
 
 Abstracts must be submitted via the [abstract submission form](https://goo.gl/forms/DrYwDVBKhPj8Zvu93).
 
-Details of the workshop’s organising and programme committees are available [here](/rslondonse-2019/committees/)
+Details of the workshop’s organising and programme committees are available [here](/rslondon/rslondonse-2019/committees/)
 
 **Important Dates**
 

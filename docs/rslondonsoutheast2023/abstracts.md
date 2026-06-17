@@ -4,7 +4,7 @@ title: "RSLondonSouthEast 2023: Abstracts"
 permalink: /rslondonsoutheast2023/abstracts/
 ---
 
-[< Back to RSLondonSouthEast 2023: Schedule](/rslondonsoutheast2023/schedule/)
+[< Back to RSLondonSouthEast 2023: Schedule](/rslondon/rslondonsoutheast2023/schedule/)
 
 ### **Talk Abstracts**
 

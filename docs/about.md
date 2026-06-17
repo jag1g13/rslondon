@@ -14,13 +14,13 @@ The community aims to help its members in three key areas:
 
 ## Community Committee
 
-RSLondon is managed by a committee of volunteers who help to organise and run its activites and guide the direction of the community. See details of our committee and its members on the [committee page](/rslondon-committee/).
+RSLondon is managed by a committee of volunteers who help to organise and run its activites and guide the direction of the community. See details of our committee and its members on the [committee page](/rslondon/rslondon-committee/).
 
 ## Get involved
 
 There are several ways to get involved with the Research Software London community:
 
-- [Sign up to our e-mail list](/mailing-list/)
+- [Sign up to our e-mail list](/rslondon/mailing-list/)
 - Come along to one of our events or training workshops
 - Join our Slack channel #rslondon on [UK RSE Slack](https://ukrse.slack.com)
 - Propose an event that is of interest to you and others in your domain

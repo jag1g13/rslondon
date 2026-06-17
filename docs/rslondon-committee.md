@@ -6,35 +6,35 @@ permalink: /rslondon-committee/
 
 The RSLondon community is run/managed by a committee of volunteers based at a range of different institutions within the region. Our current committee members are:
 
-![Maria Broadbridge profile picture](/assets/images/2025/08/mb.png)  
+![Maria Broadbridge profile picture](/rslondon/assets/images/2025/08/mb.png)  
 Maria Broadbridge  
 University of Reading
 
-![Default Avatar](/assets/images/2021/11/default_avatar_small.png)  
+![Default Avatar](/rslondon/assets/images/2021/11/default_avatar_small.png)  
 Ilektra Christidi  
 UCL
 
-![Jeremy Cohen profile picture](/assets/images/2021/11/jc.png)  
+![Jeremy Cohen profile picture](/rslondon/assets/images/2021/11/jc.png)  
 Jeremy Cohen  
 Imperial College London
 
-![James DesLauriers profile picture](/assets/images/2022/02/jdeslauriers_web.jpg)  
+![James DesLauriers profile picture](/rslondon/assets/images/2022/02/jdeslauriers_web.jpg)  
 James DesLauriers  
 University of Westminster
 
-![Default Avatar](/assets/images/2023/02/jg.jpg)  
+![Default Avatar](/rslondon/assets/images/2023/02/jg.jpg)  
 James Graham  
 King’s College London
 
-![Default Avatar](/assets/images/2021/11/tr.png)  
+![Default Avatar](/rslondon/assets/images/2021/11/tr.png)  
 Tom Roberts  
 NHS / King’s College London
 
-![Amy Strange profile picture](/assets/images/2022/02/photo_ajcs.jpg)  
+![Amy Strange profile picture](/rslondon/assets/images/2022/02/photo_ajcs.jpg)  
 Amy Strange  
 The Francis Crick Institute
 
-![Adam Witney profile picture](/assets/images/2022/02/aw_web.png)  
+![Adam Witney profile picture](/rslondon/assets/images/2022/02/aw_web.png)  
 Adam Witney  
 St George’s University of London
 
@@ -54,7 +54,7 @@ Ilektra is a Senior Research Software Developer within the Research Software Dev
 
 **Jeremy Cohen, *Imperial College London***
 
-[Jeremy Cohen](https://www.imperial.ac.uk/people/jeremy.cohen/) is an Advanced Research Fellow in the [Department of Computing](https://www.imperial.ac.uk/computing/) and Director of Research Software Engineering Strategy at [Imperial College London](https://www.imperial.ac.uk). He has a Computer Science background and his work focuses on supporting and undertaking the development of research software across multidisciplinary collaborations, RSE community building, training and the development of policy and models for research software engineering activities. Jeremy is an EPSRC RSE Fellow. He started and currently leads [Imperial’s local research software community](https://www.imperial.ac.uk/computational-methods/rse/) and the [RSLondon](/) regional research software community.
+[Jeremy Cohen](https://www.imperial.ac.uk/people/jeremy.cohen/) is an Advanced Research Fellow in the [Department of Computing](https://www.imperial.ac.uk/computing/) and Director of Research Software Engineering Strategy at [Imperial College London](https://www.imperial.ac.uk). He has a Computer Science background and his work focuses on supporting and undertaking the development of research software across multidisciplinary collaborations, RSE community building, training and the development of policy and models for research software engineering activities. Jeremy is an EPSRC RSE Fellow. He started and currently leads [Imperial’s local research software community](https://www.imperial.ac.uk/computational-methods/rse/) and the [RSLondon](/rslondon/) regional research software community.
 
 ---
 

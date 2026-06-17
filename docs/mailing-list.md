@@ -12,7 +12,7 @@ The list is managed via Mailman and you can sign up at: [https://mailing-lists.i
 
 ### Data Privacy
 
-We are committed to handling your data responsibly. See our [e-mail list/newsletter privacy notice](/assets/documents/2018/08/rslondon-mailinglist-privacy-notice-30Aug18.pdf) for details of how data is handled and managed in relation to this e-mail list.
+We are committed to handling your data responsibly. See our [e-mail list/newsletter privacy notice](/rslondon/assets/documents/2018/08/rslondon-mailinglist-privacy-notice-30Aug18.pdf) for details of how data is handled and managed in relation to this e-mail list.
 
 ### Further Details
 

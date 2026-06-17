@@ -4,7 +4,7 @@ title: "RSLondonSouthEast 2020: Diversity and Accessibility"
 permalink: /rslondonse-2020/diversity-and-accessibility/
 ---
 
-[< Back to RSLondonSouthEast 2020](/rslondonse-2020/)
+[< Back to RSLondonSouthEast 2020](/rslondon/rslondonse-2020/)
 
 The RSLondonSouthEast 2020 Workshop is a community conference intended to bring together individuals based at institutions in London and the South East of England who are either building/working with research software or who are new to the field and keen to develop their knowledge and skills. It is also open to individuals from the wider national and international RSE community. The workshop will facilitate networking, collaboration and skills development within the regional research software community. We value the participation of each member of our community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the workshop.
 

@@ -4,7 +4,7 @@ title: "RSLondonSouthEast 2023: Committees"
 permalink: /rslondonsoutheast2023/committees/
 ---
 
-##### [< Back to RSLondonSouthEast 2023](/rslondonsoutheast2023/)
+##### [< Back to RSLondonSouthEast 2023](/rslondon/rslondonsoutheast2023/)
 
 ### **Organising Committee**
 

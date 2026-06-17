@@ -16,7 +16,7 @@ While this workshop aims to provide a regional focus on research software activi
 
 There will be a range of technical presentations as well as a poster session and opportunities for networking and discussion.
 
-See the [call for submission of abstracts](/rslondonsoutheast2023/cfs/) for presentations and posters.
+See the [call for submission of abstracts](/rslondon/rslondonsoutheast2023/cfs/) for presentations and posters.
 
 ### **Venue**
 
@@ -28,11 +28,11 @@ See the [call for submission of abstracts](/rslondonsoutheast2023/cfs/) for pres
 
 We are accepting submission of short abstracts for 15-minute talks (250 word abstract), 5-minute lightning talks (up to 150 word abstract) and posters (up to 150 word abstract). The **deadline for abstract submissions is 23:59 BST (UTC+1) on ~~Wednesday 24th May 2023~~** **Tuesday 30th May 2023**.
 
-- See the [call for submission of abstracts](/rslondonsoutheast2023/cfs/) for talks and posters
+- See the [call for submission of abstracts](/rslondon/rslondonsoutheast2023/cfs/) for talks and posters
 - Abstract submission deadline: **23:59 BST (UTC+1) on ~~Wednesday 24th May 2023~~** **Wednesday 31st May 2023**
 - ~~Abstract submissions are open. Submit your abstract via the [submission form](https://forms.gle/Mf1zXousD8W75y9c6).~~ Abstract submissions for this year’s workshop have now closed.
 
-Details of the workshop organising committee and programme committee can be found on the [Committees page](/rslondonsoutheast2023/committees/).
+Details of the workshop organising committee and programme committee can be found on the [Committees page](/rslondon/rslondonsoutheast2023/committees/).
 
 ### **Registration**
 
@@ -42,11 +42,11 @@ The workshop will start at 10.00am and finish at approximately 5pm and we hope t
 
 ### **Schedule**
 
-See the [workshop schedule page](/rslondonsoutheast2023/schedule/) for details.
+See the [workshop schedule page](/rslondon/rslondonsoutheast2023/schedule/) for details.
 
 ### **Code of Conduct, Diversity and Accessibility & COVID-19 Guidance**
 
-Please read our workshop [Code of Conduct](/rslondonsoutheast2023/code-of-conduct/) and [Diversity and Accessibility statement](/rslondonsoutheast2023/diversity/). Accessibility requirements can be specified at registration time but please [contact us](mailto:rslondonsoutheast2023@rslondon.ac.uk) if you have any questions.
+Please read our workshop [Code of Conduct](/rslondon/rslondonsoutheast2023/code-of-conduct/) and [Diversity and Accessibility statement](/rslondon/rslondonsoutheast2023/diversity/). Accessibility requirements can be specified at registration time but please [contact us](mailto:rslondonsoutheast2023@rslondon.ac.uk) if you have any questions.
 
 We ask that if you feel unwell on the day of the workshop or are exhibiting [symptoms of COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms/main-symptoms/), that you please do not attend. Masks will be available for anyone who wishes to wear one.
 
@@ -56,8 +56,8 @@ If you have access to a lateral flow test, please consider taking one prior to a
 
 We would like to thank our event sponsors, the [Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/) and the [Society of Research Software Engineering](https://society-rse.org/) without whom staging this event would not be possible.
 
-[![UKRI Engineering and Physical Sciences Research Council Logo](/assets/images/2020/01/UKRI_EPSR_Council-Logo_Horiz-RGB.png)](https://epsrc.ukri.org/)
-[![Society of Research Software Engineering Logo](/assets/images/2022/06/Soc_RSE_master_logo.png)](https://society-rse.org/)
+[![UKRI Engineering and Physical Sciences Research Council Logo](/rslondon/assets/images/2020/01/UKRI_EPSR_Council-Logo_Horiz-RGB.png)](https://epsrc.ukri.org/)
+[![Society of Research Software Engineering Logo](/rslondon/assets/images/2022/06/Soc_RSE_master_logo.png)](https://society-rse.org/)
 
 EPSRC support for the event is provided through RSE Fellowship Grant EP/R025460/1.
 

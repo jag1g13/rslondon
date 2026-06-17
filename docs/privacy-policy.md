@@ -78,4 +78,4 @@ Research Software London organises and runs events. Imperial College London’s 
 
 ## Research Software London Mailing List and Newsletter
 
-The Research Software London mailing list is operated by Imperial College London. Our [mailing list/newsletter privacy notice](/assets/documents/2018/08/rslondon-mailinglist-privacy-notice-30Aug18.pdf) provides details of how data held in relation to the mailing list, and any announcements or newsletters distributed through, is handled.
+The Research Software London mailing list is operated by Imperial College London. Our [mailing list/newsletter privacy notice](/rslondon/assets/documents/2018/08/rslondon-mailinglist-privacy-notice-30Aug18.pdf) provides details of how data held in relation to the mailing list, and any announcements or newsletters distributed through, is handled.

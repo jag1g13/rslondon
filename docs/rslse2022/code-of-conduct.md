@@ -4,7 +4,7 @@ title: "RSLondonSouthEast 2022: Code of Conduct"
 permalink: /rslse2022/code-of-conduct/
 ---
 
-[< Back to RSLondonSouthEast 2022](/rslse2022/)
+[< Back to RSLondonSouthEast 2022](/rslondon/rslse2022/)
 
 The RSLondonSouthEast 2022 workshop is open to anyone interested in research software with a focus on institutions in London and the South East of England. The workshop aims to bring together researchers, Research Software Engineers, academics, systems/infrastructure professionals and anyone building, working with or interested in research software.
 

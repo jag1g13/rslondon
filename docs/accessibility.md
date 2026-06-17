@@ -6,7 +6,7 @@ permalink: /accessibility/
 
 ## Accessibility on the RSLondon site
 
-This statement applies to content published on [rslondon.ac.uk](/).
+This statement applies to content published on [rslondon.ac.uk](/rslondon/).
 
 We want as many people as possible to be able to use this website. For example, that means you should be able to:
 
