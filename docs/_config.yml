@@ -44,9 +44,9 @@ plugins:
 footer:
   links:
     - label: "Privacy Policy"
-      url: "/rslondon/privacy-policy/"
+      url: "/privacy-policy/"
     - label: "Cookie Policy"
-      url: "/rslondon/cookie-policy/"
+      url: "/cookie-policy/"
 
 exclude:
   - Gemfile
